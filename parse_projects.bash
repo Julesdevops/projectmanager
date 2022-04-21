@@ -2,7 +2,7 @@
 # TODO make this an env variable?
 projects_dir="$HOME/.arsth/projects"
 projects_file="$projects_dir/map.txt"
-project_sessions_file="$projects_dir/.sessions.txt"
+project_sessions_file="$projects_dir/.sessions.json"
 project_ids="$(cat $projects_file | awk -F: '{print $1}')"
 
 sessions_to_register="[]"
