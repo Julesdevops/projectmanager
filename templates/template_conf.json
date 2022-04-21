@@ -1,0 +1,16 @@
+{
+    "id": "<id>",
+    "name": "<name>",
+    "session": true,
+    "sessions": [
+        { 
+            "name": "default",
+            "terminals": [
+                {
+                    "wd": "/home/jules",
+                    "launch_command": "pwd"
+                }
+            ]
+        }
+    ]
+}

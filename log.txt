@@ -1,0 +1,45 @@
+qdbus org.kde.yakuake /yakuake/sessions org.kde.yakuake.addSession
+qdbus org.kde.yakuake /yakuake/tabs setTabTitle 61 "test"
+qdbus org.kde.yakuake /yakuake/sessions runCommandInTerminal 61 "pwd"
+qdbus org.kde.yakuake /yakuake/sessions org.kde.yakuake.addSession
+qdbus org.kde.yakuake /yakuake/tabs setTabTitle 62 "test"
+qdbus org.kde.yakuake /yakuake/sessions runCommandInTerminal 62 "pwd"
+qdbus org.kde.yakuake /yakuake/sessions org.kde.yakuake.addSession
+qdbus org.kde.yakuake /yakuake/tabs setTabTitle 63 "test"
+qdbus org.kde.yakuake /yakuake/sessions runCommandInTerminal 63 "pwd"
+qdbus org.kde.yakuake /yakuake/sessions org.kde.yakuake.addSession
+qdbus org.kde.yakuake /yakuake/tabs setTabTitle 64 "test"
+qdbus org.kde.yakuake /yakuake/sessions runCommandInTerminal 64 "pwd"
+qdbus org.kde.yakuake /yakuake/sessions org.kde.yakuake.addSession
+qdbus org.kde.yakuake /yakuake/tabs setTabTitle 65 "test"
+qdbus org.kde.yakuake /yakuake/sessions runCommandInTerminal 65 "pwd"
+qdbus org.kde.yakuake /yakuake/sessions org.kde.yakuake.addSession
+qdbus org.kde.yakuake /yakuake/tabs setTabTitle 66 "test"
+qdbus org.kde.yakuake /yakuake/sessions runCommandInTerminal 66 "pwd"
+qdbus org.kde.yakuake /yakuake/sessions org.kde.yakuake.addSession
+qdbus org.kde.yakuake /yakuake/tabs setTabTitle 67 "test"
+qdbus org.kde.yakuake /yakuake/sessions runCommandInTerminal 67 "pwd"
+qdbus org.kde.yakuake /yakuake/sessions org.kde.yakuake.addSession
+qdbus org.kde.yakuake /yakuake/tabs setTabTitle 68 "test"
+qdbus org.kde.yakuake /yakuake/sessions runCommandInTerminal 68 "pwd"
+qdbus org.kde.yakuake /yakuake/sessions org.kde.yakuake.addSession
+qdbus org.kde.yakuake /yakuake/tabs setTabTitle 69 "test"
+qdbus org.kde.yakuake /yakuake/sessions runCommandInTerminal 69 "pwd"
+qdbus org.kde.yakuake /yakuake/sessions org.kde.yakuake.addSession
+qdbus org.kde.yakuake /yakuake/tabs setTabTitle 70 "test"
+qdbus org.kde.yakuake /yakuake/sessions runCommandInTerminal 70 "pwd"
+qdbus org.kde.yakuake /yakuake/sessions org.kde.yakuake.addSession
+qdbus org.kde.yakuake /yakuake/tabs setTabTitle 71 "test"
+qdbus org.kde.yakuake /yakuake/sessions runCommandInTerminal 71 "pwd"
+qdbus org.kde.yakuake /yakuake/sessions org.kde.yakuake.addSession
+qdbus org.kde.yakuake /yakuake/tabs setTabTitle 72 "test"
+qdbus org.kde.yakuake /yakuake/sessions runCommandInTerminal 72 "pwd"
+qdbus org.kde.yakuake /yakuake/sessions org.kde.yakuake.addSession
+qdbus org.kde.yakuake /yakuake/tabs setTabTitle 73 "test"
+qdbus org.kde.yakuake /yakuake/sessions runCommandInTerminal 73 "pwd"
+qdbus org.kde.yakuake /yakuake/sessions org.kde.yakuake.addSession
+qdbus org.kde.yakuake /yakuake/tabs setTabTitle 74 "test"
+qdbus org.kde.yakuake /yakuake/sessions runCommandInTerminal 74 "pwd"
+qdbus org.kde.yakuake /yakuake/sessions org.kde.yakuake.addSession
+qdbus org.kde.yakuake /yakuake/tabs setTabTitle 75 "test"
+qdbus org.kde.yakuake /yakuake/sessions runCommandInTerminal 75 "pwd"
